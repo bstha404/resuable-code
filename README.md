@@ -1,7 +1,7 @@
 # resuable-code
 
-** Screenshots
-## Gradient Button
+**Screenshots :-
+## gradientButton.html
 ![image](https://github.com/user-attachments/assets/e71c4b9a-4424-42a8-9b70-9b26dc73022b)
 
 ## Simple Login Screen
